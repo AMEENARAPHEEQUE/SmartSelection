@@ -11,28 +11,4 @@ The "Smart Talent" Selection Engine is an HR tech frontend solution designed to 
 - Node.js (v18.0.0 or higher recommended)
 - npm (Node Package Manager comes with Node.js)
 
-## Step-by-Step Setup & Run Guide
 
-**1. Navigate to the Project Root Directory**
-Use your terminal or command prompt and ensure you are in the project folder:
-```bash
-cd smartselection
-```
-
-**2. Install All Dependencies**
-Run the following installation command to download the required packages (like Vite, React, and Lucide-React):
-```bash
-npm install
-```
-
-**3. Start the Development Server**
-Start up the localized fast-refresh Vite development pipeline:
-```bash
-npm run dev
-```
-
-**4. Access the Application**
-Once the server launches, open your preferred web browser and navigate directly to the Local Host URL provided in your terminal output. 
-- Usually this is: `http://localhost:5173`
-
-*(Note: Use `Ctrl + C` within your terminal to stop the active development server when completed).*
